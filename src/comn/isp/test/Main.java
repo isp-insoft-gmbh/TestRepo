@@ -3,10 +3,9 @@ package comn.isp.test;
 public class Main
 {
 
-  public static void main( String[] args )
+  public static void main( final String[] args )
   {
-    // TODO(nwe|16.03.2020): Methode muss noch implementiert werden!
-
+    System.out.println( "First change" );
   }
 
 }
