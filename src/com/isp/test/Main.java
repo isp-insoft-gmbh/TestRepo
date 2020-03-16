@@ -1,4 +1,4 @@
-package comn.isp.test;
+package com.isp.test;
 
 public class Main
 {
