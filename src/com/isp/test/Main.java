@@ -5,7 +5,7 @@ public class Main
 
   public static void main( final String[] args )
   {
-    System.out.println( "First change" );
+    System.out.println( "First change lol" );
   }
 
 }
