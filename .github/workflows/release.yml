@@ -3,7 +3,7 @@ name: tagged-release
 on:
   push:
     tags:
-      - "v*"
+      - 'v*'
 
 jobs:
   tagged-release:
@@ -22,3 +22,4 @@ jobs:
           prerelease: false
           files: |
             version.properties
+            README.md
